@@ -1,0 +1,8 @@
+{
+  "name": "panapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "a657e09c"
+}
